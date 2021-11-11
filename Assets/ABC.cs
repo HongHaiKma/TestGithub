@@ -13,6 +13,7 @@ public class ABC : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        transform.position = new Vector3(1f, 1f, 1f);
         Debug.Log("!!!!!!!!!!!!!!!!!!!!!!!");
     }
 }
