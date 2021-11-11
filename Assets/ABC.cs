@@ -28,4 +28,11 @@ public class ABC : MonoBehaviour
     {
 
     }
+
+    public void Branch22()
+    {
+        Debug.Log("Branch22");
+        Debug.Log("Branch22");
+        Debug.Log("Branch22");
+    }
 }
