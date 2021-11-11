@@ -15,5 +15,7 @@ public class ABC : MonoBehaviour
     {
         transform.position = new Vector3(1f, 1f, 1f);
         Debug.Log("!!!!!!!!!!!!!!!!!!!!!!!");
+
+        Debug.Log("11111111111111111111111");
     }
 }
