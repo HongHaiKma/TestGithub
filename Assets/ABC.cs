@@ -49,4 +49,11 @@ public class ABC : MonoBehaviour
         Debug.Log("Branch111");
         Debug.Log("Branch111");
     }
+
+    public void Branch222()
+    {
+        Debug.Log("Branch222");
+        Debug.Log("Branch222");
+        Debug.Log("Branch222");
+    }
 }
